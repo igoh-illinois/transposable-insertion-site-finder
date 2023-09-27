@@ -1,5 +1,5 @@
 ##WGS PIPELINE REFERENCE & TOOL CONFIG FILE
-##Last Updated: February 9, 2020
+##Last Updated: September 27, 2023
 
 ##Main Directories
 #=REF_DIR	/data/refs
@@ -53,42 +53,6 @@ REF_Paeruginosa_CompleteRef_PA14-RW	GFF	/data/refs/annotation/Paeruginosa_Comple
 REF_Paeruginosa_CompleteRef_PA14-RW	Ref	Paeruginosa_CompleteRef_PA14-RW
 REF_Paeruginosa_CompleteRef_PA14-RW	Refname	Pseudomonas PA14-RW Complete Unicycler Ref
 
-##   Paeruginosa_CompleteRef_PA_A12
-REF_Paeruginosa_CompleteRef_PA_A12	Annovar	/data/refs/annovar/Paeruginosa_CompleteRef_PA_A12
-REF_Paeruginosa_CompleteRef_PA_A12	AribaST	/data/refs/ariba/pubmlst/pseudomonas/ref_db/
-REF_Paeruginosa_CompleteRef_PA_A12	BWA	/data/refs/bwa/bacteria/Paeruginosa_CompleteRef_PA_A12/CF_1_A12_REF_UnicyclerAssembly3.fasta
-REF_Paeruginosa_CompleteRef_PA_A12	Bowtie2	/data/refs/bowtie2/Paeruginosa_CompleteRef_PA_A12/CF_1_A12_REF_UnicyclerAssembly3
-REF_Paeruginosa_CompleteRef_PA_A12	Breseq	/data/refs/annotation/Paeruginosa_CompleteRef_PA_A12/CF_1_A12_REF_UnicyclerAssembly3.gbk
-REF_Paeruginosa_CompleteRef_PA_A12	BuildVer	CF_1_A12_REF_UnicyclerAssembly3
-REF_Paeruginosa_CompleteRef_PA_A12	FastqScreenConf	/data/scripts/conf/fastq_screen_forPipeline_PA_A12.conf
-REF_Paeruginosa_CompleteRef_PA_A12	GFF	/data/refs/annotation/Paeruginosa_CompleteRef_PA_A12/CF_1_A12_REF_UnicyclerAssembly3.gff
-REF_Paeruginosa_CompleteRef_PA_A12	Ref	Pseudomonas Paeruginosa_CompleteRef_PA_A12
-REF_Paeruginosa_CompleteRef_PA_A12	Refname	Pseudomonas PA_A12 Complete Unicycler Ref
-
-##   Paeruginosa_CompleteRef_PA_pl44B5
-REF_Paeruginosa_CompleteRef_PA_pl44B5	Annovar	/data/refs/annovar/Paeruginosa_CompleteRef_PAp44B5
-REF_Paeruginosa_CompleteRef_PA_pl44B5	AribaST	/data/refs/ariba/pubmlst/pseudomonas/ref_db/
-REF_Paeruginosa_CompleteRef_PA_pl44B5	BWA	/data/refs/bwa/bacteria/Paeruginosa_CompleteRef_PAp44B5/PA_pl44B5_UnicyclerAssembly.fasta
-REF_Paeruginosa_CompleteRef_PA_pl44B5	Bowtie2	/data/refs/bowtie2/Paeruginosa_CompleteRef_PAp44B5/PA_pl44B5_UnicyclerAssembly
-REF_Paeruginosa_CompleteRef_PA_pl44B5	Breseq	/data/refs/annotation/Paeruginosa_CompleteRef_PAp44B5/PA_pl44B5_UnicyclerAssembly.gbk
-REF_Paeruginosa_CompleteRef_PA_pl44B5	BuildVer	PA_pl44B5_UnicyclerAssembly
-REF_Paeruginosa_CompleteRef_PA_pl44B5	FastqScreenConf	/data/scripts/conf/fastq_screen_forPipeline_pl44B5.conf
-REF_Paeruginosa_CompleteRef_PA_pl44B5	GFF	/data/refs/annotation/Paeruginosa_CompleteRef_PAp44B5/PA_pl44B5_UnicyclerAssembly.gff
-REF_Paeruginosa_CompleteRef_PA_pl44B5	Ref	Paeruginosa_CompleteRef_PA_pl44B5
-REF_Paeruginosa_CompleteRef_PA_pl44B5	Refname	Pseudomonas PA_pl44B5 Complete Unicycler Ref
-
-##   Paeruginosa_CompleteRef_PA_pl68B3
-REF_Paeruginosa_CompleteRef_PA_pl68B3	Annovar	/data/refs/annovar/Paeruginosa_CompleteRef_PAp68B3
-REF_Paeruginosa_CompleteRef_PA_pl68B3	AribaST	/data/refs/ariba/pubmlst/pseudomonas/ref_db/
-REF_Paeruginosa_CompleteRef_PA_pl68B3	BWA	/data/refs/bwa/bacteria/Paeruginosa_CompleteRef_PAp68B3/PA_pl68B3_UnicyclerAssembly.fasta
-REF_Paeruginosa_CompleteRef_PA_pl68B3	Bowtie2	/data/refs/bowtie2/Paeruginosa_CompleteRef_PAp68B3/PA_pl68B3_UnicyclerAssembly
-REF_Paeruginosa_CompleteRef_PA_pl68B3	Breseq	/data/refs/annotation/Paeruginosa_CompleteRef_PAp68B3/PA_pl68B3_UnicyclerAssembly.gbk
-REF_Paeruginosa_CompleteRef_PA_pl68B3	BuildVer	PA_pl68B3_UnicyclerAssembly
-REF_Paeruginosa_CompleteRef_PA_pl68B3	FastqScreenConf	/data/scripts/conf/fastq_screen_forPipeline_pl68B3.conf
-REF_Paeruginosa_CompleteRef_PA_pl68B3	GFF	/data/refs/annotation/Paeruginosa_CompleteRef_PAp68B3/PA_pl68B3_UnicyclerAssembly.gff
-REF_Paeruginosa_CompleteRef_PA_pl68B3	Ref	Paeruginosa_CompleteRef_PA_pl68B3
-REF_Paeruginosa_CompleteRef_PA_pl68B3	Refname	Pseudomonas PA_pl68B3 Complete Unicycler Ref
-
 ##   Paeruginosa_CoreGenome1
 REF_Paeruginosa_CoreGenome1	Annovar	/data/refs/annovar/Paeruginosa_CoreGenome
 REF_Paeruginosa_CoreGenome1	AribaST	/data/refs/ariba/pubmlst/pseudomonas/ref_db/
@@ -112,55 +76,6 @@ REF_Paeruginosa_RefSeq_PA01	FastqScreenConf	/data/scripts/conf/fastq_screen_forP
 REF_Paeruginosa_RefSeq_PA01	GFF	/data/refs/annotation/Paeruginosa_RefSeq_PA01/GCF_000006765.1_ASM676v1_genomic_ed2.gff
 REF_Paeruginosa_RefSeq_PA01	Ref	Pseudomonas Paeruginosa_RefSeq_PA01
 REF_Paeruginosa_RefSeq_PA01	Refname	Pseudomonas PAO1 NCBI RefSeq Ref
-
-##   salmonella_enterica
-REF_salmonella_enterica	Annovar	/data/refs/annovar/salmonella_enterica
-REF_salmonella_enterica	AribaST	/data/refs/ariba/pubmlst/pseudomonas/ref_db
-REF_salmonella_enterica	BWA	/data/refs/bwa/salmonella_enterica/salmonella_enterica.fasta
-REF_salmonella_enterica	Bowtie2	/data/refs/bowite2/salmonella_enterica/salmonella_enterica
-REF_salmonella_enterica	Breseq	/data/refs/annotation/salmonella_enterica/salmonella_enterica.gbk
-REF_salmonella_enterica	BuildVer	salmonella_enterica
-REF_salmonella_enterica	FastqScreenConf	/data/refs/annotation/salmonella_enterica/fastq_screen_forPipeline_salmonella_enterica.conf
-REF_salmonella_enterica	GFF	/data/refs/annotation/salmonella_enterica/salmonella_enterica.gff
-REF_salmonella_enterica	Ref	salmonella_enterica
-REF_salmonella_enterica	Refname	Salmonella
-
-##   CF_1_A12_F10-like
-HREF_CF_1_A12_F10-like	Annovar	/data/refs/annovar/CF_1_A12_F10-like
-HREF_CF_1_A12_F10-like	AribaST	/data/refs/ariba/pubmlst/pseudomonas/ref_db
-HREF_CF_1_A12_F10-like	BWA	/data/refs/bwa/CF_1_A12_F10-like/CF_1_A12_F10-like.fasta
-HREF_CF_1_A12_F10-like	Bowtie2	/data/refs/bowite2/CF_1_A12_F10-like/CF_1_A12_F10-like
-HREF_CF_1_A12_F10-like	Breseq	/data/refs/annotation/CF_1_A12_F10-like/CF_1_A12_F10-like.fasta
-HREF_CF_1_A12_F10-like	BuildVer	CF_1_A12_F10-like
-HREF_CF_1_A12_F10-like	FastqScreenConf	/data/refs/annotation/CF_1_A12_F10-like/fastq_screen_forPipeline_CF_1_A12_F10-like.conf
-HREF_CF_1_A12_F10-like	GFF	/data/refs/annotation/CF_1_A12_F10-like/CF_1_A12_F10-like.gff
-HREF_CF_1_A12_F10-like	Ref	CF_1_A12_F10-like
-HREF_CF_1_A12_F10-like	Refname	CF_1_A12_F10-like
-
-##   CF_1_A12_H10_vir
-HREF_CF_1_A12_H10_vir	Annovar	/data/refs/annovar/CF_1_A12_H10_vir
-HREF_CF_1_A12_H10_vir	AribaST	/data/refs/ariba/pubmlst/pseudomonas/ref_db
-HREF_CF_1_A12_H10_vir	BWA	/data/refs/bwa/CF_1_A12_H10_vir/CF_1_A12_H10_vir.fasta
-HREF_CF_1_A12_H10_vir	Bowtie2	/data/refs/bowite2/CF_1_A12_H10_vir/CF_1_A12_H10_vir
-HREF_CF_1_A12_H10_vir	Breseq	/data/refs/annotation/CF_1_A12_H10_vir/CF_1_A12_H10_vir.fasta
-HREF_CF_1_A12_H10_vir	BuildVer	CF_1_A12_H10_vir
-HREF_CF_1_A12_H10_vir	FastqScreenConf	/data/refs/annotation/CF_1_A12_H10_vir/fastq_screen_forPipeline_CF_1_A12_H10_vir.conf
-HREF_CF_1_A12_H10_vir	GFF	/data/refs/annotation/CF_1_A12_H10_vir/CF_1_A12_H10_vir.gff
-HREF_CF_1_A12_H10_vir	Ref	CF_1_A12_H10_vir
-HREF_CF_1_A12_H10_vir	Refname	CF_1_A12_H10_vir
-
-##   PA14-RJW_PhageTS1-Ref
-HREF_PA14-RJW_PhageTS1-Ref	Annovar	/data/refs/annovar/PA14-RJW_PhageTS1-Ref
-HREF_PA14-RJW_PhageTS1-Ref	AribaST	/data/refs/ariba/pubmlst/pseudomonas/ref_db
-HREF_PA14-RJW_PhageTS1-Ref	BWA	/data/refs/bwa/PA14-RJW_PhageTS1-Ref/PA14-RJW_PhageTS1-Ref.fasta
-HREF_PA14-RJW_PhageTS1-Ref	Bowtie2	/data/refs/bowite2/PA14-RJW_PhageTS1-Ref/PA14-RJW_PhageTS1-Ref
-HREF_PA14-RJW_PhageTS1-Ref	Breseq	/data/refs/annotation/PA14-RJW_PhageTS1-Ref/PA14-RJW_PhageTS1-Ref.fasta
-HREF_PA14-RJW_PhageTS1-Ref	BuildVer	PA14-RJW_PhageTS1-Ref
-HREF_PA14-RJW_PhageTS1-Ref	FastqScreenConf	/data/refs/annotation/PA14-RJW_PhageTS1-Ref/fastq_screen_forPipeline_PA14-RJW_PhageTS1-Ref.conf
-HREF_PA14-RJW_PhageTS1-Ref	GFF	/data/refs/annotation/PA14-RJW_PhageTS1-Ref/PA14-RJW_PhageTS1-Ref.gff
-HREF_PA14-RJW_PhageTS1-Ref	Ref	PA14-RJW_PhageTS1-Ref
-HREF_PA14-RJW_PhageTS1-Ref	Refname	Hyb of PA14-RJW and Phage TS1
-HREF_PA14-RJW_PhageTS1-Ref	VirusHeader	3	
 
 ##   PA14-RW_DMS3
 HREF_PA14-RW_DMS3	Annovar	/data/refs/annovar/PA14-RW_DMS3
