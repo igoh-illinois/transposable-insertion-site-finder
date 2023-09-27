@@ -39,8 +39,6 @@ MISC_AribaVR	/data/refs/ariba/vfbd/vfdb_core/
 MISC_CentrifugeDB	/data/refs/centrifuge/abv
 MISC_TrimParameters	2:36:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:50 
 
-## 2021-01-08: Laura Suttenfield: current MISC_TrimParameters line is what Ted Kim uses. This information replaced the following : 2:36:10 LEADING:20 TRAILING:20 MAXINFO:50:0.97 MINLEN:50
-
 ##Reference Genomes
 
 ##   Paeruginosa_CompleteRef_PA14-RW
