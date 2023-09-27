@@ -2,10 +2,10 @@
 Runs pipeline to quantify virus reads within isolate or deep coverage samples.
 
 ```
-#Code by:      Cris Vera
-#Group:        IGOH Theme, IGB, University of Illinois
-#Date:         06-24-2019
-#Contact:      jcvera@illinois.edu
+Code by:      Cris Vera
+Group:        IGOH Theme, IGB, University of Illinois
+Date:         06-24-2019
+Contact:      jcvera@illinois.edu
 ```
 # Description: 
 + runs pipeline to quantify virus reads within isolate or deep coverage samples. Uses an unmodifed virus genome reference with either unmodifed or mod2 modified host genome reference (i.e. mod2=remove prophage sequence if it exists).
