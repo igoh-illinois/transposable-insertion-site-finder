@@ -1,4 +1,6 @@
 # transposable-virus-insertion-site-finder
+Runs pipeline to quantify virus reads within isolate or deep coverage samples.
+
 ```
 #Code by:      Cris Vera
 #Group:        IGOH Theme, IGB, University of Illinois
